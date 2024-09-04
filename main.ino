@@ -1,5 +1,6 @@
 //NodeMCU 1.0 (ESP-12E Module)
 //Didn't Test it yet But Convert Val to String all the way
+//All 0 lines need to be on the same line.and ctrl needs to be connected to blue
 
 #include <ESP8266WiFi.h>
 #include <NTPClient.h>
